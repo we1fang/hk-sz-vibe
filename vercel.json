@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/immd-data/:path*",
+      "destination": "https://secure1.info.gov.hk/immd/mobileapps/2bb9ae17/data/:path*"
+    }
+  ]
+}
